@@ -97,14 +97,6 @@ Developed an interactive HR Analytics dashboard to analyze workforce demographic
 
 ---
 
-## 📈 GitHub Statistics
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Anusree-MA&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Anusree-MA&layout=compact)
-
----
-
 ## 🎯 Career Goals
 
 - Build impactful Data Analytics projects
